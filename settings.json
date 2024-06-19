@@ -1,7 +1,6 @@
 {
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "Min Dark",
-    "workbench.iconTheme": "material-icon-theme",
     "files.autoSave": "afterDelay",
     "liveServer.settings.donotVerifyTags": true,
     "editor.fontFamily": "JetBrains Mono",
@@ -13,7 +12,7 @@
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": false,
     "breadcrumbs.enabled": false,
-    "workbench.activityBar.location": "side",
+    "workbench.activityBar.location": "default",
     "editor.minimap.enabled": false,
     "editor.scrollbar.horizontal": "hidden",
     "workbench.statusBar.visible": false,
@@ -27,4 +26,10 @@
     "editor.wordWrap": "on",
     "explorer.confirmDelete": false,
     "vscord.app.name": "Visual Studio Code",
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmPasteNative": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": false,
 } 
