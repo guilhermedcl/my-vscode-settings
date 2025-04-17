@@ -6,7 +6,10 @@
   "editor.fontSize": 13,
   "editor.lineHeight": 1.8,
   "javascript.suggest.autoImports": true,
-  "editor.rulers": [80, 120],
+  "editor.rulers": [
+    80,
+    120
+  ],
   "editor.renderLineHighlight": "gutter",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.stickyScroll.enabled": false,
@@ -19,15 +22,12 @@
   "editor.minimap.enabled": false,
   "editor.scrollbar.horizontal": "hidden",
   "workbench.statusBar.visible": false,
-  "workbench.layoutControl.enabled": false,
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "extensions.ignoreRecommendations": true,
   "extensions.autoCheckUpdates": true,
   "editor.wordWrap": "on",
   "explorer.confirmDelete": false,
-  "workbench.editor.enablePreview": false,
   "explorer.confirmPasteNative": false,
   "explorer.confirmDragAndDrop": false,
   "git.autofetch": true,
@@ -39,18 +39,23 @@
   "workbench.productIconTheme": "fluent-icons",
   "symbols.hidesExplorerArrows": false,
   "workbench.iconTheme": "symbols",
-  "window.commandCenter": false,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "phase",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "prettier.singleQuote": true,
-  "prettier.printWidth": 100,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.colorCustomizations": {
     "terminal.background": "#00000000"
   },
-  "workbench.settings.applyToAllProfiles": ["workbench.colorCustomizations"],
+  "workbench.settings.applyToAllProfiles": [
+    "workbench.colorCustomizations"
+  ],
   "window.titleBarStyle": "custom",
-  "workbench.colorTheme": "Ayu Dark"
+  "workbench.colorTheme": "Bearded Theme Vivid Black",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "redhat.telemetry.enabled": true,
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.navigationControl.enabled": false,
+  "window.commandCenter": false,
+  "chat.commandCenter.enabled": false,
 }
